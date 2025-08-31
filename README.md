@@ -1,16 +1,16 @@
 ![logo](https://github.com/Itabeh/Itabeh/blob/main/AI.png)
 <h1 align="center">Hi 👋, I'm Isaac Tabeh</h1>
-<h3 align="center">A passionate Cloud Computing Engineer / Cloud developer from United States</h3>
+<h3 align="center">A passionate AI Google Cloud Security Engineer / Cloud developer from the United States</h3>
 <img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 🔭 I’m currently working on [Cloud certifications](https://aws.amazon.com/training/?nc2=sb_tc)
 
 - 🌱 I’m currently learning **AI, ML Courses**
 
-- 👯 I’m looking to collaborate on [Severless project](https://aws.amazon.com/serverless/)
+- 👯 I’m looking to collaborate on [Serverless project](https://aws.amazon.com/serverless/)
 
 - 🤝 I’m looking for help with [Java Project](https://aws.amazon.com/developer/language/java/?nc1=f_dr)
 
-- 💬 Ask me about **AWS Cloud Computing, Severless Computing**
+- 💬 Ask me about **Google Cloud Security, serverless Computing**
 
 - 📫 How to reach me **isaacawscloud@gmail.com**
 
